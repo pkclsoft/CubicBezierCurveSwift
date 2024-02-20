@@ -1,5 +1,5 @@
 import XCTest
-@testable import CubicBezierCurve
+@testable import CubicBezierCurveSwift
 
 final class CubicBezierCurveTests: XCTestCase {
     func testExample() throws {
