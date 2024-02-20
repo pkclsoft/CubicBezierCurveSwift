@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "cgextkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pkclsoft/CGExtKit",
+      "state" : {
+        "revision" : "60553e1c8d210ec12f38c5dcf855bccc31c4bad7",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "uxkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pkclsoft/UXKit",
+      "state" : {
+        "revision" : "29078de275fa3f9a680bd1fd437bcc9370e424a3",
+        "version" : "0.10.2"
+      }
+    }
+  ],
+  "version" : 2
+}

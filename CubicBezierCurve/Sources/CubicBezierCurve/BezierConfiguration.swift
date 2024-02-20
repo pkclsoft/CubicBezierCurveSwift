@@ -6,7 +6,8 @@
 //  Copyright © 2020 Muhammad Osama Naeem. All rights reserved.
 //
 
-import UIKit
+import Foundation
+import UXKit
 
 struct BezierSegmentControlPoints {
     var firstControlPoint: CGPoint
